@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP development and MySQL
 - 🌱 I’m currently learning Java and Laravel
 
-- 📫 How to reach me ...
+- 📫 How to reach me by email: marcdmartins@gmail.com
 
 <!---
 marcos-d-martins/marcos-d-martins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
