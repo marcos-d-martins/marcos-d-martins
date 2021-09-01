@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcos-d-martins (Marcos Daniel)
-- 👀 I’m interested in PHP development and MySQL
+- 👀 I’m interested in PHP development and MySQL DBMS
 - 🌱 I’m currently learning Java and Laravel
 
 - 📫 How to reach me by email: marcdmartins@gmail.com
